@@ -1,0 +1,5 @@
+python-dateutil
+pandas
+vobject
+git+https://github.com/Mayuri-Chan/pyrofork
+openpyxl
