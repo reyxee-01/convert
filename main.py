@@ -18,13 +18,13 @@ from pyrogram.errors import FloodWait
 #====================
 
 bot = Client(
-    name="babuku",
-    api_id=18857199,
-    api_hash="a39f69cbb49c8ee0fafb7c748c4de545",
-    bot_token="7396492831:AAGY2jQmZ0SqhA3uJI0docKkmxBP8uULzZ8"
+    name="_",
+    api_id=you_api_id,
+    api_hash="you_api_has",
+    bot_token="you_bot_token
     )
 
-OWNER_ID = [7184813521]
+OWNER_ID = [you_id]
 
 #====================
 #Function Converting!
