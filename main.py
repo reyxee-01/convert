@@ -19,7 +19,7 @@ from pyrogram.errors import FloodWait
 
 bot = Client(
     name="rexyinte09",
-    api_id=27991643,
+    api_id=,
     api_hash="dd665a1a6d1148d425ba16e67701a81c",
     bot_token="7950364902:AAHdGO8K88bdXXVuVkW3WkDPCWVFAgmAaWY"
     )
